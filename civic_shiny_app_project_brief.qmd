@@ -5,6 +5,12 @@ format:
   typst: default
 ---
 
+Successfully deployed to <https://danswart.shinyapps.io/schertz-council-docs/>
+
+2026-04-15
+
+
+
 # Purpose of this document
 
 This document is written for the assistant, not for the end user.
